@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
-    <img alt="License: Gpu Public License" src="https://img.shields.io/badge/License-Gpu Public License-yellow.svg" />
+    <img alt="License: Gpl Public License" src="https://img.shields.io/badge/License-Gpl Public License-yellow.svg" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 ## Install
 
 ```sh
-git clone   https://github.com/Ryan-da-ghost/Auro-theme
+$ git clone  https://github.com/Ryan-da-ghost/Auro-theme
 ```
 
 ## Author
