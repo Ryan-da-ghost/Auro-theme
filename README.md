@@ -14,6 +14,9 @@
 $ git clone  https://github.com/Ryan-da-ghost/Auro-theme
 ```
 
+## Demo
+<img src="Capture.PNG" alt="Auro Color Scheme"></img>
+
 ## Author
 
 👤 **Ryan-the-ghost**
